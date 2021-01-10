@@ -1,6 +1,6 @@
 ---
 title: "[번역] 데이터과학자를 위한 인과추론 치트시트"
-tags: lecture
+tags: transfer
 <!-- article_header:
   type: cover
   image:

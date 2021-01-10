@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part3"
-subtitle: "대규모로 판매 미디어를 이용하는 방법"
-categories: review
+title: "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part3"
 tags: transfer
-comments: true
+<!-- article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg -->
 ---
 
 

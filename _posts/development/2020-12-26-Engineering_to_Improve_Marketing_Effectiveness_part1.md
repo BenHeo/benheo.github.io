@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part1"
-subtitle: "마케팅 자동화에 대한 철학"
-categories: review
+title: "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part1"
 tags: transfer
-comments: true
+<!-- article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg -->
 ---
 
 
