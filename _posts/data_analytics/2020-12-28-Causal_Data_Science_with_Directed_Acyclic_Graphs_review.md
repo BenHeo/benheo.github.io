@@ -1,5 +1,4 @@
 ---
-layout: data_analytics
 title: "[강의리뷰] Causal Data Science with Directed Acyclic Graphs"
 tags: lecture
 <!-- article_header:
