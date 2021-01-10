@@ -1,4 +1,14 @@
 header:
+
+  - titles: 데이터분석
+    url: /_posts/data_analytics
+
+  - titles: 후기
+    url: /_posts/review
+
+  - titles: 개발
+    url: /_posts/development
+
   - titles:
       # @start locale config
       en      : &EN       Archive
