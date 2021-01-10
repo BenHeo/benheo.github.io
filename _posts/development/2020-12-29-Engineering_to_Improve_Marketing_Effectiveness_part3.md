@@ -1,4 +1,5 @@
 ---
+layout: development
 title: "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part3"
 tags: transfer
 <!-- article_header:
