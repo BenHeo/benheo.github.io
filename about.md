@@ -26,49 +26,36 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+# 소개
+- Github : [https://github.com/benheo](https://github.com/benheo)
+- [Linkedin](https://www.linkedin.com/in/benheo3/)
+- Mail : [gjguskr@gmail.com](gjguskr@gmail.com)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+분석하는 걸 좋아해 데이터 분석가가 되었습니다. 예측 모델링보다는 가설을 세우고 분석하는 것을 더 좋아합니다. [브런치](https://brunch.co.kr/@bdh)에 글을 썼는데 글 하나하나에 부담이 느껴져 잘 안 하게 되어 상대적으로 가볍게 글을 적을 수 있는 (푸쉬 알림이 없는) 깃허브 블로그에 글을 쓰려고 합니다. 긴 호흡이 요구되는 분석이 끝난다면 양쪽에 모두 글을 올릴 생각입니다.
 
-## Features
+소비자학을 전공했고, 학교에서 제공하는 프로그래밍 & 데이터 분석 관련 강의를 찾아 들었습니다. 2018년에는 운 좋게 <서울대학교 4차산업혁명 아카데미>에서 '빅데이터 애널리틱스' 과정을 이수했습니다. 이때 통계학, 계량경제학 교수님들에게 수업을 들어서인지 약간 이론파가 되었습니다. 대학원 생각도 있었지만 취업 길로 가면서 이제는 이론 모드에서 벗어나 실무 역량 기르는 걸 더 우선순위에 두고 있습니다.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+# 경력
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+|          	                                       | 기간                     	| 담당 업무                                                       	|
+|:---------------------------------------------:	 |:-------------------------------------------:| ---------------------------------------------------	|
+|   NCSOFT   |    2020.1 - 현재    | 게임 관련 데이터 분석 <br> 유저 세그먼트 |
+|   우아한청년들   |   2019.8 - 2019.12 	| 배민라이더스 관련 데이터 분석 <br> 지표 관리 <br> 인센티브 효과 측정 <br> 데이터 대시보드 생성 및 관리(Spreadsheet, Tableau)	|
+|   다우기술   |   2018.10 - 2018.12 	  | 증권사 이탈 고객 예측 모델링	|
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+# 관심사
+- 인과분석 (Causality)
+  - 계량경제학
+  - 사회과학
+- 지표 (Indicator and Metrics)
+- 통계 (Statistics)
+- 데이터 시각화 (Data Visualization)
+- 비즈니스 (Business)
+- 독서 (Reading Books)
+- 게임 (Games)
+- 트렌드 (Trend)
 
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+등등 다양하게 관심을 가지고 있습니다
