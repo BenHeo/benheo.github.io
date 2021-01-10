@@ -1,13 +1,13 @@
 header:
 
   - title: 데이터분석
-    url: /_posts/data_analytics/
+    url: /_posts/data_analytics/*.md
 
   - title: 후기
-    url: /_posts/review/
+    url: /_posts/review/*.md
 
   - title: 개발
-    url: /_posts/development/
+    url: /_posts/development/*.md
 
   - titles:
       # @start locale config
