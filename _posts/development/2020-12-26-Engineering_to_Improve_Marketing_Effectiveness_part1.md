@@ -1,6 +1,6 @@
 ---
 title: "[번역] 마케팅 효과를 높이기 위한 엔지니어링 (feat. 넷플릭스) Part1"
-tags: transfer
+tags: transfer, netflix, engineering
 <!-- article_header:
   type: cover
   image:
