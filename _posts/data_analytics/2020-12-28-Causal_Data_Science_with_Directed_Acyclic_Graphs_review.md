@@ -1,6 +1,6 @@
 ---
 title: "[강의리뷰] Causal Data Science with Directed Acyclic Graphs"
-tags: lecture
+tags: lecture, causality
 <!-- article_header:
   type: cover
   image:
