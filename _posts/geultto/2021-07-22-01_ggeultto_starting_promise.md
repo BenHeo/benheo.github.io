@@ -6,6 +6,7 @@ tags: geultto analytics
   image:
     src: /screenshot.jpg -->
 ---
+# 글또를 시작하며  
 
 ## 글또를 시작한 계기  
 ### 나는 뭘 얻기를 원했나  
